@@ -1,23 +1,21 @@
-# Spam Message Classifier
+ 📩 Spam Message Classifier
 
-A machine learning project that classifies SMS messages as Spam or Not Spam.
+A Machine Learning project that classifies SMS messages as Spam or Not Spam using TF-IDF and Multinomial Naive Bayes.
 
-## Features
-- SMS spam detection
-- TF-IDF text vectorization
-- Multinomial Naive Bayes classifier
-- Interactive Streamlit application
-- Test accuracy: 97.04%
+ 🚀 Live Demo
 
-## Technologies
-Python, Pandas, Scikit-learn, Streamlit
+https://spam-message-classifier-emsqupk9dmjuug4vhvsbwy.streamlit.app/
 
-## Run the project
+ 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+- TF-IDF Vectorization
+- Multinomial Naive Bayes
 
-Install the libraries:
-
-pip install -r requirements.txt
-
-Start the application:
-
-streamlit run app.py
+ ✨ Features
+- Enter any SMS message for prediction.
+- Classifies messages as Spam or Not Spam.
+- Displays model test accuracy.
+- Interactive web dashboard.
